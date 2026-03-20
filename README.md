@@ -1,21 +1,122 @@
+<h1 align="center">Hi 👋, I'm Sharan N</h1>
+<h3 align="center">🚀 Aspiring Full Stack Developer | IoT + AI Enthusiast</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sharan_nagarajan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nsharan0062gamil.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sharan560&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sharan560&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharan560&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sharan560&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sharan560&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="mailto:nsharan006@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/sharan-n-046706291/">LinkedIn</a> •
+  <a href="https://github.com/sharan560">GitHub</a> •
+  <a href="https://sharan560.github.io/Portfolio/">Portfolio</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sharan560&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍🎓 About Me
+- 🎓 B.E ECE @ **Sri Eshwar College of Engineering** (2023–2027)  
+- 📊 CGPA: **8.40**  
+- 💡 Passionate about **Full Stack Development, IoT & Machine Learning**  
+- 🔥 Solved **450+ DSA problems** across platforms  
+- 🛠️ Love building real-world impactful projects  
+
+---
+
+## 💼 Internship Experience
+### 🚀 Spring Boot Intern – RAMPEX (2025)
+- Built secure REST APIs using **Spring Boot**
+- Implemented **JWT Authentication & Spring Security**
+- Gained experience in **production-ready backend systems**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+`C++` `Java` `C`
+
+### ⚙️ Frameworks & Libraries
+`Spring Boot` `Spring` `JPA` `React JS`
+
+### 🗄️ Databases
+`MySQL` `MongoDB` `PostgreSQL`
+
+### 🌐 Web
+`HTML` `CSS`
+
+### 🧰 Tools
+`VS Code` `IntelliJ` `Postman` `Git` `GitHub`
+
+---
+
+## 🚀 Projects
+
+### 🔧 FixMyTheru  
+📌 Citizen Issue Reporting Platform  
+- Built using **Spring Boot + React + PostgreSQL**
+- Role-based authentication using **JWT**
+- Real-time issue tracking system  
+👉 [View Project](https://github.com/sharan560/FixMytheru)
+
+---
+
+### 🐝 SmartBee  
+📌 IoT-based Beehive Monitoring System  
+- MERN stack + IoT sensors  
+- Real-time environmental tracking & alerts  
+👉 [View Project](https://github.com/sharan560/smartbee-backend)
+
+---
+
+### 🌾 CropIQ  
+📌 Smart Agriculture Recommendation System  
+- IoT + ML + React Native  
+- Uses **CatBoost ML model**  
+- Soil monitoring + crop prediction  
+👉 [View Project](https://github.com/sharan560/DSP)
+
+---
+
+## 📊 Coding Profiles
+
+- 🔹 LeetCode: **450+ Problems | Max Rating: 1651**  
+  👉 https://leetcode.com/u/Sharan-06/
+
+- 🔹 CodeChef: **Max Rating: 1250**  
+  👉 https://www.codechef.com/users/sharann2023ece
+
+- 🔹 HackerRank: ⭐⭐⭐ C | ⭐⭐⭐ Python  
+  👉 https://hackerrank.com/profile/sharan_n2006
+
+- 🔹 SkillRack: **470+ Problems Solved**  
+  👉 https://www.skillrack.com/faces/resume.xhtml?id=484502
+
+---
+
+## 🏆 Achievements
+- 🥈 2nd Prize – Ideathon @ Sri Ramakrishna College  
+- 🥇 1st Prize – Code Fiesta (Bank Management System)  
+- 🥈 2nd Prize – Creathon (Portfolio Website @ SECE)  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharan560&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharan560&theme=radical" />
+</p>
+
+---
+
+## 🎯 Current Focus
+- 🔥 Mastering **DSA for top product companies**
+- 🌐 Building **Full Stack + IoT integrated projects**
+- 🤖 Exploring **AI + Cloud + Real-world solutions**
+
+---
+
+## 💬 Quote I Follow
+> "Consistency beats talent when talent doesn't work hard."
+
+---
+
+⭐️ *Feel free to explore my repositories and connect with me!*
