@@ -1,122 +1,84 @@
-<h1 align="center">Hi 👋, I'm Sharan N</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | IoT + AI Enthusiast</h3>
+<h1 align="center">Hey 👋 I'm Sharan</h1>
 
 <p align="center">
-  <a href="mailto:nsharan006@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/sharan-n-046706291/">LinkedIn</a> •
-  <a href="https://github.com/sharan560">GitHub</a> •
-  <a href="https://sharan560.github.io/Portfolio/">Portfolio</a>
+  🚀 Builder • 💻 Developer • 🤖 IoT + AI Explorer
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=I+build+cool+stuff;Full+Stack+Developer;IoT+%2B+AI+Projects;Always+learning+something+new" />
 </p>
 
 ---
 
-## 👨‍🎓 About Me
-- 🎓 B.E ECE @ **Sri Eshwar College of Engineering** (2023–2027)  
-- 📊 CGPA: **8.40**  
-- 💡 Passionate about **Full Stack Development, IoT & Machine Learning**  
-- 🔥 Solved **450+ DSA problems** across platforms  
-- 🛠️ Love building real-world impactful projects  
+## ⚡ About Me
+- I like building things that actually solve real problems  
+- Into **Full Stack + IoT + ML**  
+- Debugging = daily gym 🧠  
+- Currently grinding **DSA + projects**
 
 ---
 
-## 💼 Internship Experience
-### 🚀 Spring Boot Intern – RAMPEX (2025)
-- Built secure REST APIs using **Spring Boot**
-- Implemented **JWT Authentication & Spring Security**
-- Gained experience in **production-ready backend systems**
+## 🧰 Tech Stack
 
----
+<p align="center">
+  
+<img src="https://skillicons.dev/icons?i=java,cpp,c,spring,react,mongodb,mysql,postgres,html,css,git,vscode,postman" />
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-`C++` `Java` `C`
-
-### ⚙️ Frameworks & Libraries
-`Spring Boot` `Spring` `JPA` `React JS`
-
-### 🗄️ Databases
-`MySQL` `MongoDB` `PostgreSQL`
-
-### 🌐 Web
-`HTML` `CSS`
-
-### 🧰 Tools
-`VS Code` `IntelliJ` `Postman` `Git` `GitHub`
+</p>
 
 ---
 
 ## 🚀 Projects
 
-### 🔧 FixMyTheru  
-📌 Citizen Issue Reporting Platform  
-- Built using **Spring Boot + React + PostgreSQL**
-- Role-based authentication using **JWT**
-- Real-time issue tracking system  
-👉 [View Project](https://github.com/sharan560/FixMytheru)
+### 🔧 FixMyTheru
+🛠️ Report & track real-world issues  
+👉 https://github.com/sharan560/FixMytheru  
 
 ---
 
-### 🐝 SmartBee  
-📌 IoT-based Beehive Monitoring System  
-- MERN stack + IoT sensors  
-- Real-time environmental tracking & alerts  
-👉 [View Project](https://github.com/sharan560/smartbee-backend)
+### 🐝 SmartBee
+📡 IoT beehive monitoring system  
+👉 https://github.com/sharan560/smartbee-backend  
 
 ---
 
-### 🌾 CropIQ  
-📌 Smart Agriculture Recommendation System  
-- IoT + ML + React Native  
-- Uses **CatBoost ML model**  
-- Soil monitoring + crop prediction  
-👉 [View Project](https://github.com/sharan560/DSP)
+### 🌾 CropIQ
+🌱 Smart farming with sensors + ML  
+👉 https://github.com/sharan560/DSP  
 
 ---
 
-## 📊 Coding Profiles
-
-- 🔹 LeetCode: **450+ Problems | Max Rating: 1651**  
-  👉 https://leetcode.com/u/Sharan-06/
-
-- 🔹 CodeChef: **Max Rating: 1250**  
-  👉 https://www.codechef.com/users/sharann2023ece
-
-- 🔹 HackerRank: ⭐⭐⭐ C | ⭐⭐⭐ Python  
-  👉 https://hackerrank.com/profile/sharan_n2006
-
-- 🔹 SkillRack: **470+ Problems Solved**  
-  👉 https://www.skillrack.com/faces/resume.xhtml?id=484502
-
----
-
-## 🏆 Achievements
-- 🥈 2nd Prize – Ideathon @ Sri Ramakrishna College  
-- 🥇 1st Prize – Code Fiesta (Bank Management System)  
-- 🥈 2nd Prize – Creathon (Portfolio Website @ SECE)  
-
----
-
-## 📈 GitHub Stats
+## 📊 Coding Grind
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharan560&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharan560&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharan560&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharan560&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 Current Focus
-- 🔥 Mastering **DSA for top product companies**
-- 🌐 Building **Full Stack + IoT integrated projects**
-- 🤖 Exploring **AI + Cloud + Real-world solutions**
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:nsharan006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sharan-n-046706291/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sharan560">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-## 💬 Quote I Follow
-> "Consistency beats talent when talent doesn't work hard."
+## ⚡ Fun Zone
+> Eat. Code. Debug. Repeat.
 
 ---
 
-⭐️ *Feel free to explore my repositories and connect with me!*
+<p align="center">
+  ⭐ check out my repos if you like cool stuff
+</p>
