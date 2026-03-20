@@ -1,18 +1,18 @@
 <h1 align="center">Hey 👋 I'm Sharan</h1>
 
 <p align="center">
-  🚀 Builder • 💻 Developer • 🤖 IoT + AI Explorer
+  🚀 Builder • 💻 Developer • Problem Solver
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=I+build+cool+stuff;Full+Stack+Developer;IoT+%2B+AI+Projects;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=I+build+cool+stuff;Full+Stack+Developer;Love+solving+problems;Always+learning+something+new" />
 </p>
 
 ---
 
 ## ⚡ About Me
 - I like building things that actually solve real problems  
-- Into **Full Stack + IoT + ML**  
+- Into **Full Stack Development**  
 - Debugging = daily gym 🧠  
 - Currently grinding **DSA + projects**
 
@@ -21,9 +21,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  
 <img src="https://skillicons.dev/icons?i=java,cpp,c,spring,react,mongodb,mysql,postgres,html,css,git,vscode,postman" />
-
 </p>
 
 ---
@@ -37,13 +35,13 @@
 ---
 
 ### 🐝 SmartBee
-📡 IoT beehive monitoring system  
+📡 Real-time monitoring system  
 👉 https://github.com/sharan560/smartbee-backend  
 
 ---
 
 ### 🌾 CropIQ
-🌱 Smart farming with sensors + ML  
+🌱 Data-driven farming solution  
 👉 https://github.com/sharan560/DSP  
 
 ---
