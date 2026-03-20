@@ -57,10 +57,16 @@ https://github.com/sharan560/DSP
 ## LeetCode
 
 <p>
-  Practicing regularly to sharpen DSA and problem-solving speed.
+  One of my core strengths is problem solving through consistent LeetCode practice.
 </p>
 
-https://leetcode.com/
+<p>
+  <a href="https://leetcode.com/u/Sharan-06/">
+    <img src="https://img.shields.io/badge/LeetCode-Sharan--06-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode profile" />
+  </a>
+</p>
+
+https://leetcode.com/u/Sharan-06/
 
 ## Connect With Me
 
