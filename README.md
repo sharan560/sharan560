@@ -13,11 +13,7 @@
 </p>
 
 ## About Me
-- Full stack developer
-- Enjoy clean code and simple solutions
-- Love debugging (sometimes)
-- Consistent with problem solving
-- Always learning by building real projects
+I am a full stack developer who enjoys writing clean code and building simple, useful solutions for real problems. I stay consistent with problem solving, genuinely enjoy debugging, and keep improving by shipping projects and sharpening my DSA skills through regular practice.
 
 ## Tech Stack
 
@@ -52,21 +48,21 @@ https://github.com/sharan560/DSP
 ## Achievements
 - Building end-to-end full stack projects from idea to deployment
 - Improving consistency in coding and problem solving
+- Strong DSA and logical thinking through regular LeetCode practice
 - Focused on writing cleaner, maintainable backend code
 
 ## LeetCode
 
-<p>
-  One of my core strengths is problem solving through consistent LeetCode practice.
-</p>
-
-<p>
+<p align="center">
   <a href="https://leetcode.com/u/Sharan-06/">
-    <img src="https://img.shields.io/badge/LeetCode-Sharan--06-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode profile" />
+    <img src="https://img.shields.io/badge/LeetCode-Sharan--06-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode profile" />
   </a>
+  <img src="https://img.shields.io/badge/Strength-Problem%20Solving-00C2FF?style=for-the-badge" alt="problem solving" />
 </p>
 
-https://leetcode.com/u/Sharan-06/
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sharan-06?theme=nord&font=Fira%20Code&ext=contest" alt="leetcode stats card" />
+</p>
 
 ## Connect With Me
 
